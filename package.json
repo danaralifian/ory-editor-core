@@ -84,5 +84,5 @@
     "transpile": "babel ./src --out-dir lib --source-maps --copy-files --only **/*.ts,**/*.tsx --extensions .ts,.tsx --ignore **/*.d.ts"
   },
   "typings": "./lib/index.d.ts",
-  "version": "0.6.0"
+  "version": "0.6.0.1"
 }
